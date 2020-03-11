@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Frederico Bertholini"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "foto_perfil.jpg"
+hero_media = "perfil.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.

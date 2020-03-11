@@ -32,7 +32,7 @@ social:
   link: https://twitter.com/FredericoBerth1
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.br/citations?user=7nxTikEAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/fredbsr
@@ -42,6 +42,6 @@ user_groups:
 - Visitors
 ---
 
-Sou professor do Instituto de Ciência Política da Universidade de Brasília (IPOL/UnB), doutor em Administração (Instituições Políticas e Governo) pela FGV/EBAPE e mestre pela Escola Nacional de Ciências Estatísticas (ENCE/IBGE).
+Sou professor do Instituto de Ciência Política da Universidade de Brasília (IPOL/UnB), doutor em Administração (Instituições, Políticas e Governo) pela FGV/EBAPE e mestre pela Escola Nacional de Ciências Estatísticas (ENCE/IBGE).
 
 Fui Gerente de Estudos Regional e Metropolitano na Codeplan-DF entre 2015 e 2018, pesquisador associado do IPGLab/FGV de 2011 a 2018 e estive de 2013 a 2014 como Pesquisador Visitante no Departamento de Política da New York University. 
