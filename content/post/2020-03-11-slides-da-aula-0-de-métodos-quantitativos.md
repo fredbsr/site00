@@ -17,4 +17,5 @@ image:
 projects: []
 ---
 
-Aula 0 - https://fbertholini.netlify.com/
+[Aula 0 - Dizendo oi](https://fbertholini.netlify.com/slides/mqr_2020_aula00)
+

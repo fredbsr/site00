@@ -7,39 +7,50 @@
     <description>Slides</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>Aula00</title>
+      <title>Aula 0 - MQCP 2020</title>
       <link>/slides/mqr_2020_aula00/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/slides/mqr_2020_aula00/</guid>
-      <description>&lt;h1 id=&#34;aula-00&#34;&gt;Aula 00&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;aula-0&#34;&gt;Aula 0&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;quem-sou-eu-quem-são-vocês&#34;&gt;Quem sou eu, quem são vocês?&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Trajetória&lt;/li&gt;
-&lt;li&gt;Agenda&lt;/li&gt;
+&lt;li&gt;Minha trajetória&lt;/li&gt;
+&lt;li&gt;Agendas de Pesquisa&lt;/li&gt;
+&lt;li&gt;Formulário de acesso (&lt;a href=&#34;http://tiny.cc/QMR_2020_form&#34;&gt;http://tiny.cc/QMR_2020_form&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;do-que-trata-o-curso&#34;&gt;Do que trata o curso&lt;/h2&gt;
+&lt;h2 id=&#34;do-que-trata-o-curso-12&#34;&gt;Do que trata o curso (1/2)&lt;/h2&gt;
+&lt;p&gt;Conceitos introdutórios, dados e tipos de variáveis. Universo Tidyverse. Fontes de dados secundários e estratégias de coleta. Estruturas de dados individuais e agregados. Limpeza de dados. Coleta de dados, amostras e surveys. Versionamento e publicação no GitHub. Reproducibilidade. Visualizações interativas e relatórios no RMarkdown.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;programa-tentativo&#34;&gt;Programa (tentativo)&lt;/h2&gt;
+&lt;h2 id=&#34;do-que-trata-o-curso-22&#34;&gt;Do que trata o curso (2/2)&lt;/h2&gt;
+&lt;p&gt;Estratégias de pesquisa, escalas e medidas de tendência central. Análises descritivas multivariadas. Probabilidade, inferência e testes de hipóteses. Intervalos de confiança e testes para a diferença de duas médias. Análise de variância e correlação. Regressão linear simples. Regressão linear múltipla e regressão logística.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;programa-e-materiais-tentativo&#34;&gt;Programa e materiais (tentativo)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://tiny.cc/LAPCIPP_MQ1&#34;&gt;http://tiny.cc/LAPCIPP_MQ1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;avaliações&#34;&gt;Avaliações&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;20% Listas&lt;/li&gt;
+&lt;li&gt;30% Revisão de paper&lt;/li&gt;
+&lt;li&gt;50% Trabalho Final&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;recursos-que-precisaremos-instalar&#34;&gt;Recursos que precisaremos instalar&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;R&lt;/li&gt;
-&lt;li&gt;RStudio&lt;/li&gt;
-&lt;li&gt;TeX&lt;/li&gt;
+&lt;li&gt;R (&lt;a href=&#34;https://www.r-project.org/&#34;&gt;https://www.r-project.org/&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;RStudio (&lt;a href=&#34;https://rstudio.com/&#34;&gt;https://rstudio.com/&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;TeX (a distribuição depende da plataforma e do gosto de quem vai escrever)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;outros-recursos-que-precisaremos-acessar&#34;&gt;Outros recursos que precisaremos acessar&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;GitHub&lt;/li&gt;
-&lt;li&gt;Overleaf&lt;/li&gt;
+&lt;li&gt;GitHub (&lt;a href=&#34;http://www.github.com&#34;&gt;http://www.github.com&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Overleaf (&lt;a href=&#34;https://www.overleaf.com&#34;&gt;https://www.overleaf.com&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;outros-recursos-que-precisaremos-acessar-1&#34;&gt;Outros recursos que precisaremos acessar&lt;/h2&gt;
-&lt;hr&gt;
+&lt;p&gt;Não deixem de criar seus usuários/perfis&lt;/p&gt;
 </description>
     </item>
     
