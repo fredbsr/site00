@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Meus interesses de pesquisa incluem coalizões presidenciais, populismo e políticas públicas.
 education:
   courses:
   - course: Doutorado em Administração (Instituições, Políticas e Governo)
@@ -12,12 +11,13 @@ education:
     institution: ENCE/IBGE
     year: 2011
 
-email: ""
+email: "frederico.bertholini@unb.br"
 interests:
-- Efeito das instituições políticas sobre os resultados das políticas públicas; 
-- Relações Executivo-Legislativo; 
 - Gerência de coalizões em presidencialismos multipartidários; 
-- Aplicação de métodos quantitativos e qualitativos sobre a análise política e de políticas públicas.
+- Populismo;
+- Efeito das instituições políticas sobre os resultados das políticas públicas; 
+- Aplicação de métodos quantitativos e qualitativos na análise política e de políticas públicas.
+
 name: Frederico Bertholini
 organizations:
 - name: Universidade de Brasília
