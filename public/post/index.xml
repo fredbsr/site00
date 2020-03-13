@@ -5,12 +5,20 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Formulário de identificação dos alunos de Métodos Quantitativos</title>
+      <link>/post/formulario-de-identificacao-dos-alunos-de-metodos-quantitativos/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/post/formulario-de-identificacao-dos-alunos-de-metodos-quantitativos/</guid>
+      <description>&lt;iframe src=&#34;https://docs.google.com/forms/d/e/1FAIpQLScslt-DnACch4bCQKjVmeJ7R_X-Oz6ASOmRSzVRpa-H5U4StQ/viewform?embedded=true&#34; width=&#34;700&#34; height=&#34;520&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Loading…&lt;/iframe&gt;</description>
+    </item>
     
     <item>
       <title>Slides das Aulas de Métodos Quantitativos</title>
