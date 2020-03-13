@@ -9,9 +9,11 @@ summary:
 tags: []
 title: Aula 0 - MQCP 2020
 ---
-# Métodos Quantitativos Aplicados à Ciência Política
-## Frederico Bertholini
-### Aula 0 - Apresentação do curso
+## Métodos Quantitativos Aplicados à Ciência Política
+
+### Frederico Bertholini
+
+#### Aula 0 - Apresentação do curso
 
 ---
 ## Quem sou eu, quem são vocês?
