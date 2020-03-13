@@ -17,5 +17,7 @@ image:
 projects: []
 ---
 
-[Aula 0 - Dizendo oi](https://fbertholini.netlify.com/slides/mqr_2020_aula00)
+[Aula 0 - Apresentação do curso](https://fbertholini.netlify.com/slides/mqr_2020_aula00)
+
+[Aula 1 - Conhecendo o R e o RStudio](https://fbertholini.netlify.com/slides/mqr_2020_aula01)
 
