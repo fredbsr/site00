@@ -82,3 +82,10 @@ Não deixem de criar seus usuários/perfis
 
 ## [Imprima estes slides](https://fbertholini.netlify.com/slides/mqr_2020_aula00/?print-pdf#/)
 
+Depois de abrir o link:
+1.Abra caixa de diálogo da impressão (CTRL/CMD+P).
+2.Altere a configuração de destino para Salvar como PDF.
+3.Mude o layout para paisagem.
+4.Altere as margens para Nenhuma.
+5.Ative a opção de gráficos em segundo plano.
+6.Clique em Salvar.
