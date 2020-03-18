@@ -5,12 +5,22 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Slides das Aulas de Análise Política</title>
+      <link>/post/slides-das-aulas-de-analise-politica/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/post/slides-das-aulas-de-analise-politica/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://fbertholini.netlify.com/slides/analise_politica_20201_01/index.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aula 1 - Apresentação do curso&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Formulário de identificação dos alunos de Métodos Quantitativos</title>
