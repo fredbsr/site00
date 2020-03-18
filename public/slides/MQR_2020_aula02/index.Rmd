@@ -1,11 +1,11 @@
 ---
 title: "Untitled"
-output: ioslides_presentation
----
+output: 
+  revealjs::revealjs_presentation:
+    theme: white
+    css: "/css/reveal.css"
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+---
 
 ## R Markdown
 
@@ -19,15 +19,15 @@ When you click the **Knit** button a document will be generated that includes bo
 - Bullet 2
 - Bullet 3
 
-## Slide with R Output
+## Slide with R Code and Output
 
-```{r cars, echo = TRUE}
+```{r}
 summary(cars)
 ```
 
 ## Slide with Plot
 
-```{r pressure}
-plot(pressure)
+```{r, echo=FALSE}
+plot(cars)
 ```
 

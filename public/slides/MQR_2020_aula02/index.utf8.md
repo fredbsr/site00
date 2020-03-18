@@ -1,9 +1,7 @@
 ---
 title: "Untitled"
-output: ioslides_presentation
+output: revealjs::revealjs_presentation
 ---
-
-
 
 ## R Markdown
 
@@ -17,7 +15,7 @@ When you click the **Knit** button a document will be generated that includes bo
 - Bullet 2
 - Bullet 3
 
-## Slide with R Output
+## Slide with R Code and Output
 
 
 ```r
@@ -36,5 +34,5 @@ summary(cars)
 
 ## Slide with Plot
 
-<img src="index_files/figure-html/pressure-1.png" width="720" />
+<img src="index_files/figure-revealjs/unnamed-chunk-2-1.png" width="768" />
 
