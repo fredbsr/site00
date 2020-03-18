@@ -3,7 +3,7 @@ title: "Untitled"
 output: 
   revealjs::revealjs_presentation:
     theme: white
-    css: "/css/reveal.css"
+    css: "reveal.css"
 
 ---
 

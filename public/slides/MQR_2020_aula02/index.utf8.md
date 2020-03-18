@@ -1,6 +1,10 @@
 ---
 title: "Untitled"
-output: revealjs::revealjs_presentation
+output: 
+  revealjs::revealjs_presentation:
+    theme: white
+    css: "reveal.css"
+
 ---
 
 ## R Markdown
