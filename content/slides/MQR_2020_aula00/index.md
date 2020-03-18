@@ -78,14 +78,22 @@ Não deixem de criar seus usuários/perfis
 
 ---
 
-## [Volte ao início](https://fbertholini.netlify.com/slides/mqr_2020_aula00/)
 
-## [Imprima estes slides](https://fbertholini.netlify.com/slides/mqr_2020_aula00/?print-pdf#/)
+## [Clique aqui para salvar estes slides em PDF](https://fbertholini.netlify.com/slides/mqr_2020_aula00/?print-pdf#/)
 
-Depois de abrir o link:
-1.Abra caixa de diálogo da impressão (CTRL/CMD+P).
-2.Altere a configuração de destino para Salvar como PDF.
-3.Mude o layout para paisagem.
-4.Altere as margens para Nenhuma.
+<small> 
+Depois de clicar:
+
+1.Abra caixa de diálogo da impressão (usando CTRL+p/CMD+p).
+
+2.Altere a configuração de destino para "Salvar como PDF".
+
+3.Mude o layout para "Paisagem".
+
+4.Altere as margens para "Nenhum".
+
 5.Ative a opção de gráficos em segundo plano.
-6.Clique em Salvar.
+
+6.Clique em "Salvar".
+
+</small>
