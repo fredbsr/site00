@@ -161,3 +161,64 @@ Create `assets/css/reveal_custom.css` with:
 [Ask](https://spectrum.chat/academic)
 
 [Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
+
+---
+
+<section>
+	<p class="fragment grow">grow</p>
+	<p class="fragment shrink">shrink</p>
+	<p class="fragment strike">strike</p>
+	<p class="fragment fade-out">fade-out</p>
+	<p class="fragment fade-up">fade-up (also down, left and right!)</p>
+	<p class="fragment fade-in-then-out">fades in, then out when we move to the next step</p>
+	<p class="fragment fade-in-then-semi-out">fades in, then obfuscate when we move to the next step</p>
+	<p class="fragment highlight-current-blue">blue only once</p>
+	<p class="fragment highlight-red">highlight-red</p>
+	<p class="fragment highlight-green">highlight-green</p>
+	<p class="fragment highlight-blue">highlight-blue</p>
+</section>
+
+--- 
+<section data-background-color="#61688b">
+
+# Color
+	
+### Color
+	
+Teste
+
+</section>
+
+--- 
+
+<section data-transition="slide-in fade-out">
+    
+The train goes on
+
+
+--- 
+
+
+and on
+
+</section>
+
+--- 
+
+<section data-transition="slide-in fade-out" data-background-color="#61688b">
+
+and stops.
+
+--- 
+
+
+Passengers entering and leaving
+
+--- 
+
+
+And it starts again.
+
+</section>
+
+

@@ -7,7 +7,7 @@ education:
   - course: Doutorado em Administração (Instituições, Políticas e Governo)
     institution: EBAPE/FGV
     year: 2015
-  - course: Mestrado em Estudos Populacionais e Pesquisas Socias 
+  - course: Mestrado em Estudos Populacionais e Pesquisas Sociais 
     institution: ENCE/IBGE
     year: 2011
 

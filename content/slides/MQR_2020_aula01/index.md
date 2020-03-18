@@ -19,49 +19,5 @@ title: Aula 0 - MQCP 2020
 
 ###### Frederico Bertholini
 
---- 
-<section data-background-color="#61688b">
-
-# Color
-	
-### Color
-	
-Teste
-
-</section>
-
---- 
-
-<section data-transition="slide-in fade-out">
-    
-The train goes on
-
-
---- 
-
-
-and on
-
-</section>
-
---- 
-
-<section data-transition="slide-in fade-out" data-background-color="#61688b">
-
-and stops.
-
---- 
-
-
-Passengers entering and leaving
-
---- 
-
-
-And it starts again.
-
-</section>
-
 ---
 
-<section data-transition="slide-in fade-out" data-background-color="#61688b">

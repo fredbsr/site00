@@ -71,17 +71,17 @@
 &lt;/ul&gt;
 &lt;p&gt;Não deixem de criar seus usuários/perfis&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;volte-ao-iníciohttpsfbertholininetlifycomslidesmqr_2020_aula00&#34;&gt;
-&lt;a href=&#34;https://fbertholini.netlify.com/slides/mqr_2020_aula00/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Volte ao início&lt;/a&gt;&lt;/h2&gt;
-&lt;h2 id=&#34;imprima-estes-slideshttpsfbertholininetlifycomslidesmqr_2020_aula00print-pdf&#34;&gt;
-&lt;a href=&#34;https://fbertholini.netlify.com/slides/mqr_2020_aula00/?print-pdf#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Imprima estes slides&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Depois de abrir o link:
-1.Abra caixa de diálogo da impressão (CTRL/CMD+P).
-2.Altere a configuração de destino para Salvar como PDF.
-3.Mude o layout para paisagem.
-4.Altere as margens para Nenhuma.
-5.Ative a opção de gráficos em segundo plano.
-6.Clique em Salvar.&lt;/p&gt;
+&lt;h2 id=&#34;clique-aqui-para-salvar-estes-slides-em-pdfhttpsfbertholininetlifycomslidesmqr_2020_aula00print-pdf&#34;&gt;
+&lt;a href=&#34;https://fbertholini.netlify.com/slides/mqr_2020_aula00/?print-pdf#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clique aqui para salvar estes slides em PDF&lt;/a&gt;&lt;/h2&gt;
+&lt;small&gt; 
+Depois de clicar:
+&lt;p&gt;1.Abra caixa de diálogo da impressão (usando CTRL+p/CMD+p).&lt;/p&gt;
+&lt;p&gt;2.Altere a configuração de destino para &amp;ldquo;Salvar como PDF&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;3.Mude o layout para &amp;ldquo;Paisagem&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;4.Altere as margens para &amp;ldquo;Nenhum&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;5.Ative a opção de gráficos em segundo plano.&lt;/p&gt;
+&lt;p&gt;6.Clique em &amp;ldquo;Salvar&amp;rdquo;.&lt;/p&gt;
+&lt;/small&gt;
 </description>
     </item>
     
@@ -95,27 +95,7 @@
 &lt;br&gt;
 &lt;h6 id=&#34;frederico-bertholini&#34;&gt;Frederico Bertholini&lt;/h6&gt;
 &lt;hr&gt;
-&lt;section data-background-color=&#34;#61688b&#34;&gt;
-&lt;h1 id=&#34;color&#34;&gt;Color&lt;/h1&gt;
-&lt;h3 id=&#34;color-1&#34;&gt;Color&lt;/h3&gt;
-&lt;p&gt;Teste&lt;/p&gt;
-&lt;/section&gt;
-&lt;hr&gt;
-&lt;section data-transition=&#34;slide-in fade-out&#34;&gt;
-&lt;p&gt;The train goes on&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;and on&lt;/p&gt;
-&lt;/section&gt;
-&lt;hr&gt;
-&lt;section data-transition=&#34;slide-in fade-out&#34; data-background-color=&#34;#61688b&#34;&gt;
-&lt;p&gt;and stops.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Passengers entering and leaving&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;And it starts again.&lt;/p&gt;
-&lt;/section&gt;
-&lt;hr&gt;
-&lt;section data-transition=&#34;slide-in fade-out&#34; data-background-color=&#34;#61688b&#34;&gt;</description>
+</description>
     </item>
     
     <item>
@@ -248,6 +228,40 @@ Three
 &lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;section&gt;
+	&lt;p class=&#34;fragment grow&#34;&gt;grow&lt;/p&gt;
+	&lt;p class=&#34;fragment shrink&#34;&gt;shrink&lt;/p&gt;
+	&lt;p class=&#34;fragment strike&#34;&gt;strike&lt;/p&gt;
+	&lt;p class=&#34;fragment fade-out&#34;&gt;fade-out&lt;/p&gt;
+	&lt;p class=&#34;fragment fade-up&#34;&gt;fade-up (also down, left and right!)&lt;/p&gt;
+	&lt;p class=&#34;fragment fade-in-then-out&#34;&gt;fades in, then out when we move to the next step&lt;/p&gt;
+	&lt;p class=&#34;fragment fade-in-then-semi-out&#34;&gt;fades in, then obfuscate when we move to the next step&lt;/p&gt;
+	&lt;p class=&#34;fragment highlight-current-blue&#34;&gt;blue only once&lt;/p&gt;
+	&lt;p class=&#34;fragment highlight-red&#34;&gt;highlight-red&lt;/p&gt;
+	&lt;p class=&#34;fragment highlight-green&#34;&gt;highlight-green&lt;/p&gt;
+	&lt;p class=&#34;fragment highlight-blue&#34;&gt;highlight-blue&lt;/p&gt;
+&lt;/section&gt;
+&lt;hr&gt;
+&lt;section data-background-color=&#34;#61688b&#34;&gt;
+&lt;h1 id=&#34;color&#34;&gt;Color&lt;/h1&gt;
+&lt;h3 id=&#34;color-1&#34;&gt;Color&lt;/h3&gt;
+&lt;p&gt;Teste&lt;/p&gt;
+&lt;/section&gt;
+&lt;hr&gt;
+&lt;section data-transition=&#34;slide-in fade-out&#34;&gt;
+&lt;p&gt;The train goes on&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;and on&lt;/p&gt;
+&lt;/section&gt;
+&lt;hr&gt;
+&lt;section data-transition=&#34;slide-in fade-out&#34; data-background-color=&#34;#61688b&#34;&gt;
+&lt;p&gt;and stops.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Passengers entering and leaving&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;And it starts again.&lt;/p&gt;
+&lt;/section&gt;
 </description>
     </item>
     
