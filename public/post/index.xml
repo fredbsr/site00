@@ -5,12 +5,24 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Slides de outros cursos em R</title>
+      <link>/post/slides-de-outros-cursos-em-r/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/post/slides-de-outros-cursos-em-r/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://fbertholini.netlify.com/files/curso_R_CNPq.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides do curso CNPq (pdfs compilado) - Introdução ao uso de R&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://fbertholini.netlify.com/slides/curso_R_ENAP/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides do curso ENAP (compilado) - Análise de Dados Secondários &lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Slides das Aulas de Análise Política</title>

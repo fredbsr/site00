@@ -77,6 +77,18 @@
     </item>
     
     <item>
+      <title>Slides de outros cursos em R</title>
+      <link>/post/slides-de-outros-cursos-em-r/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/post/slides-de-outros-cursos-em-r/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://fbertholini.netlify.com/files/curso_R_CNPq.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides do curso CNPq (pdfs compilado) - Introdução ao uso de R&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://fbertholini.netlify.com/slides/curso_R_ENAP/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides do curso ENAP (compilado) - Análise de Dados Secondários &lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Slides das Aulas de Análise Política</title>
       <link>/post/slides-das-aulas-de-analise-politica/</link>
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
@@ -118,6 +130,159 @@
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aula 0 - MQCP 2020</title>
+      <link>/slides/analise_politica_01/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/analise_politica_01/</guid>
+      <description>&lt;p&gt;Material&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://tiny\.cc/analisepolitica\_ipol&#34; class=&#34;uri&#34;&gt;http://tiny.cc/analisepolitica_ipol&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;s&lt;strong&gt;e&lt;/strong&gt;m&lt;strong&gt;w&lt;/strong&gt;w&lt;strong&gt;w&lt;/strong&gt;e&lt;strong&gt;t&lt;/strong&gt;u&lt;strong&gt;d&lt;/strong&gt;o&lt;strong&gt;e&lt;/strong&gt;m&lt;strong&gt;m&lt;/strong&gt;i&lt;strong&gt;n&lt;/strong&gt;ú&lt;strong&gt;s&lt;/strong&gt;c&lt;strong&gt;u&lt;/strong&gt;l&lt;strong&gt;a&lt;/strong&gt;s&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ou&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://tiny\.cc/analisepolitica\_IPOL&#34; class=&#34;uri&#34;&gt;http://tiny.cc/analisepolitica_IPOL&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;introdução&#34;&gt;Introdução&lt;/h1&gt;
+&lt;h1 id=&#34;shepsle--cap-1&#34;&gt;Shepsle – Cap 1&lt;/h1&gt;
+&lt;h1 id=&#34;uma-ciência-da-política&#34;&gt;Uma CIÊNCIA da política?&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Qual seu partido? Quando você vai concorrer?
+&lt;ul&gt;
+&lt;li&gt;Não vai?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Então, como esse curso pode te ajudar?
+&lt;ul&gt;
+&lt;li&gt;Para ajudá-lo a consumir pesquisa acadêmica em ciência política
+em seus outros cursos.&lt;/li&gt;
+&lt;li&gt;Para ajudar você a se tornar um melhor consumidor de
+informações.&lt;/li&gt;
+&lt;li&gt;Para iniciar você na produção de pesquisa científica sobre
+política.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Política e políticos nozapda família e na imprensa.
+&lt;ul&gt;
+&lt;li&gt;Políticos não são lá gente muito boa&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Marco da disciplina como CIÊNCIA
+&lt;ul&gt;
+&lt;li&gt;Da descrição ao ”por quê?”
+&lt;ul&gt;
+&lt;li&gt;“apenas fatos” &lt;em&gt;d&lt;strong&gt;e&lt;/strong&gt;s&lt;strong&gt;c&lt;/strong&gt;r&lt;strong&gt;i&lt;/strong&gt;ç&lt;strong&gt;ã&lt;/strong&gt;o&lt;strong&gt;d&lt;/strong&gt;e&lt;strong&gt;n&lt;/strong&gt;s**a&lt;/em&gt; –
+“¿Porqué?” eslaprincipal interrogante delaciencia.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Regularidades empíricas robustas
+&lt;ul&gt;
+&lt;li&gt;Respostas às inquietações.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Respostas
+&lt;em&gt;m&lt;strong&gt;a&lt;/strong&gt;t&lt;strong&gt;u&lt;/strong&gt;r&lt;strong&gt;i&lt;/strong&gt;d&lt;strong&gt;a&lt;/strong&gt;d&lt;strong&gt;e&lt;/strong&gt;d&lt;strong&gt;a&lt;/strong&gt;c&lt;strong&gt;i&lt;/strong&gt;ê&lt;strong&gt;n&lt;/strong&gt;c&lt;strong&gt;i&lt;/strong&gt;a&lt;strong&gt;s&lt;/strong&gt;o&lt;strong&gt;c&lt;/strong&gt;i&lt;strong&gt;a&lt;/strong&gt;l&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;Aproximação ou afastamento das ciências duras?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;keohane-2009&#34;&gt;Keohane (2009)&lt;/h1&gt;
+&lt;p&gt;Idefinepoliticsasinvolvingattemptstoorganizehumangroupstodetermineinternalrulesand,externally,tocompeteandcooperatewithotherorganizedgroups;andreactionstosuchattempts.&lt;/p&gt;
+&lt;p&gt;Idefinescienceas
+apubliclyknownsetofproceduresdesignedtomakeandevaluatedescriptiveandcausalinferencesonthebasisoftheselfconsciousapplicationofmethodsthatarethemselvessubjecttopublicevaluation.&lt;/p&gt;
+&lt;h1 id=&#34;o-que-fazem-os-cientistas-políticos&#34;&gt;O que fazem os cientistas políticos?&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Quais são os processos pelos quais eles passam na busca pelo
+conhecimento?&lt;/li&gt;
+&lt;li&gt;Questionam;
+&lt;ul&gt;
+&lt;li&gt;Puzzle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Conceituam;
+&lt;ul&gt;
+&lt;li&gt;Consistência, validade e confiabilidade&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Descrevem;&lt;/li&gt;
+&lt;li&gt;Fazem inferências causais.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tratando-a-política-cientificamente-a-busca-de-explicações-causais&#34;&gt;Tratando a política cientificamente: a busca de explicações causais&lt;/h1&gt;
+&lt;h1 id=&#34;pensando-o-mundo-em-termos-de-relações-entre-variáveis&#34;&gt;Pensando o mundo em termos de relações entre variáveis&lt;/h1&gt;
+&lt;h1 id=&#34;modelos-e-teorias&#34;&gt;Modelos e teorias&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Modelos como estilizações da realidade
+&lt;ul&gt;
+&lt;li&gt;Rudimentar, limitado. Útil?&lt;/li&gt;
+&lt;li&gt;Modelos como mapas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tomada de decisão individual
+&lt;ul&gt;
+&lt;li&gt;Indivíduo como função das coisas queelxquer e das coisas
+queelxacredita.&lt;/li&gt;
+&lt;li&gt;Sempre quero fazer o que é melhor pra mim?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tomada de decisão coletiva
+&lt;ul&gt;
+&lt;li&gt;Grupo decide sempre o que é melhor pro grupo?&lt;/li&gt;
+&lt;li&gt;Decisões são manipuláveis?&lt;/li&gt;
+&lt;li&gt;É possível cooperar?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Regras e contexto
+&lt;ul&gt;
+&lt;li&gt;Instituições&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;algumas-indicações-de-caminho&#34;&gt;Algumas indicações de caminho&lt;/h1&gt;
+&lt;p&gt;Torne suas teorias causais.&lt;/p&gt;
+&lt;p&gt;Não deixe os dados sozinhos guiarem suas teorias.&lt;/p&gt;
+&lt;p&gt;Considere apenas evidências empíricas.&lt;/p&gt;
+&lt;p&gt;Evite declarações normativas. &lt;em&gt;u**é&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;Persiga tanto a generalização quanto a parcimônia.&lt;/p&gt;
+&lt;h1 id=&#34;a-política&#34;&gt;A Política&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Ferramentas analíticasver o mundo de uma maneira diferente.
+&lt;ul&gt;
+&lt;li&gt;Por que
+&lt;ul&gt;
+&lt;li&gt;certos grupos têm dificuldade em cooperar ou tomar decisões?&lt;/li&gt;
+&lt;li&gt;as pessoas reclamam dos problemas, mas não fazem nada para
+resolvê-los?&lt;/li&gt;
+&lt;li&gt;candidatos e líderes políticos fazem o que fazem?&lt;/li&gt;
+&lt;li&gt;alguns problemas podem ser resolvidos e outros não?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Política, neste curso, consiste em indivíduos que interagem,
+manobram, dissimulam, seguem estratégias, cooperam e muito mais, à
+medida que buscam atingir seus objetivos, quaisquer que sejam, na
+vida em grupo&lt;/li&gt;
+&lt;li&gt;Política compminúsculo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;enfoque-no-modelo-de-escolha-racional&#34;&gt;Enfoque no modelo de escolha racional&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Teoria política formal&lt;/li&gt;
+&lt;li&gt;Teoria política positiva&lt;/li&gt;
+&lt;li&gt;Economia política
+&lt;ul&gt;
+&lt;li&gt;Enfoque econômico da política&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Racional nem sempre é o que parece&lt;/li&gt;
+&lt;li&gt;Entender e modelar:
+&lt;ul&gt;
+&lt;li&gt;Necessidades, crenças e comportamento&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

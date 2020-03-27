@@ -1,33 +1,110 @@
 ---
-title: "Untitled"
+title: "Análise Política"
 output: 
   revealjs::revealjs_presentation:
     theme: white
     css: "reveal.css"
 
 ---
+Material
 
-## R Markdown
+http://tiny\.cc/analisepolitica\_ipol
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+\(semwwwe tudo em minúsculas\)
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+Ou
 
-## Slide with Bullets
+http://tiny\.cc/analisepolitica\_IPOL
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+# Introdução
 
-## Slide with R Code and Output
+# Shepsle – Cap 1
 
-```{r}
-summary(cars)
-```
+# Uma CIÊNCIA da política?
 
-## Slide with Plot
+* Qual seu partido? Quando você vai concorrer?
+  * Não vai?
+* Então\, como esse curso pode te ajudar?
+  * Para ajudá\-lo a consumir pesquisa acadêmica em ciência política em seus outros cursos\.
+  * Para ajudar você a se tornar um melhor consumidor de informações\.
+  * Para iniciar você na produção de pesquisa científica sobre política\.
 
-```{r, echo=FALSE}
-plot(cars)
-```
+* Política e políticos nozapda família e na imprensa\.
+  * Políticos não são lá gente muito boa
+* Marco da disciplina como CIÊNCIA
+  * Da descrição ao ”por quê?”
+    * “apenas fatos” \(descrição densa\) – “¿Porqué?” eslaprincipal interrogante delaciencia\.
+  * Regularidades empíricas robustas
+    * Respostas às inquietações\.
+  * Respostas \(maturidade da ciência social\)
+    * Aproximação ou afastamento das ciências duras?
+
+# Keohane (2009)
+
+Idefinepoliticsasinvolvingattemptstoorganizehumangroupstodetermineinternalrulesand\,externally\,tocompeteandcooperatewithotherorganizedgroups;andreactionstosuchattempts\.
+
+Idefinescienceas apubliclyknownsetofproceduresdesignedtomakeandevaluatedescriptiveandcausalinferencesonthebasisoftheselfconsciousapplicationofmethodsthatarethemselvessubjecttopublicevaluation\.
+
+# O que fazem os cientistas políticos?
+
+* Quais são os processos pelos quais eles passam na busca pelo conhecimento?
+* Questionam;
+  * Puzzle
+* Conceituam;
+  * Consistência\, validade e confiabilidade
+* Descrevem;
+* Fazem inferências causais\.
+
+# Tratando a política cientificamente: a busca de explicações causais
+
+# Pensando o mundo em termos de relações entre variáveis
+
+# Modelos e teorias
+
+* Modelos como estilizações da realidade
+  * Rudimentar\, limitado\. Útil?
+  * Modelos como mapas
+* Tomada de decisão individual
+  * Indivíduo como função das coisas queelxquer e das coisas queelxacredita\.
+  * Sempre quero fazer o que é melhor pra mim?
+* Tomada de decisão coletiva
+  * Grupo decide sempre o que é melhor pro grupo?
+  * Decisões são manipuláveis?
+  * É possível cooperar?
+* Regras e contexto
+  * Instituições
+
+# Algumas indicações de caminho
+
+Torne suas teorias causais\.
+
+Não deixe os dados sozinhos guiarem suas teorias\.
+
+Considere apenas evidências empíricas\.
+
+Evite declarações normativas\. \(ué?\!\)
+
+Persiga tanto a generalização quanto a parcimônia\.
+
+# A Política
+
+* Ferramentas analíticasver o mundo de uma maneira diferente\.
+  * Por que
+    * certos grupos têm dificuldade em cooperar ou tomar decisões?
+    * as pessoas reclamam dos problemas\, mas não fazem nada para resolvê\-los?
+    * candidatos e líderes políticos fazem o que fazem?
+    * alguns problemas podem ser resolvidos e outros não?
+* Política\, neste curso\, consiste em indivíduos que interagem\, manobram\, dissimulam\, seguem estratégias\, cooperam e muito mais\, à medida que buscam atingir seus objetivos\, quaisquer que sejam\, na vida em grupo
+* Política compminúsculo
+
+# Enfoque no modelo de escolha racional
+
+* Teoria política formal
+* Teoria política positiva
+* Economia política
+  * Enfoque econômico da política
+* Racional nem sempre é o que parece
+* Entender e modelar:
+  * Necessidades\, crenças e comportamento
+
 
