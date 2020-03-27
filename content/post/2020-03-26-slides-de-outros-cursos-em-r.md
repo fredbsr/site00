@@ -1,5 +1,5 @@
 ---
-title: Slides de outros cursos em R
+title: Slides de cursos anteriores em R
 author: ~
 date: '2020-03-26'
 slug: slides-de-outros-cursos-em-r
